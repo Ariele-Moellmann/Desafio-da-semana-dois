@@ -1,0 +1,131 @@
+header {
+    background-color:white;
+    color: black;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+
+#logo {
+    width: 96px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    margin-left: 5%;
+ }
+
+#menu {
+    color: white;
+    float: right;
+    list-style: none;
+    margin-top: 0px;
+    margin-right: 5%;
+}
+
+li {
+ float: left;  
+ padding: 20 10 20 10; 
+}
+
+li:hover {
+    background-color: #01aaea
+}
+
+
+
+body {
+    background-color: lightblue;
+}
+
+h3 {
+    color: black;
+}
+#imagem_fundo {
+    background: url("img/pexels-aaron-burden-2449543.jpg");
+    height: 90%;
+    text-align: center;
+    background-size: cover 10px;
+    border: white solid 10px;
+}
+
+#titulo {
+    color:black;
+    padding-top: 10%;
+    font-size: 50px;
+    font-family: cursive;
+    
+}
+
+#subtitulo {
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+    padding-left: 15%;
+    padding-right: 20%;
+    hr align="center" width="80%"
+}
+
+#seleção {
+    text-align: center;
+}
+#seleao {
+    text-align: center;
+}
+
+
+
+.destaque {
+    background-color: white;
+}
+
+.coluna {   
+    float: left;
+    padding: 4%;
+    position: relative;
+    font-size: ;
+
+}
+
+.dois {
+    width: 40%;
+
+}
+
+.tom {
+    background-color: white;
+    text-align: left;
+    padding-left: 17%;
+}
+
+.imeco {
+    width: 500px;
+    border: black solid 20px;
+}
+
+
+.quatro {
+    width: 30%;
+}
+
+.centralizado {
+   text-align: center;
+}
+
+.justificado {
+    text-align: justify;
+    font-size: 14px;
+    font-weight: 300;
+
+}
+
+.centro {
+    text-align: center;
+}
+
+.icone {
+    width: 100px;
+    }
+
+
